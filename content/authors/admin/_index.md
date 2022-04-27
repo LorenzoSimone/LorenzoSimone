@@ -1,7 +1,7 @@
 ---
 title: Lorenzo Simone
 role: Machine Learning Teaching Assistant
-avatar_filename: avatar.jpg
+avatar_filename: download.jpg
 bio: My main research interest is focused on Computer aided diagnosis systems
   based on AI novelties. I'm currently interested in advanced generative deep
   learning models for signals, compressed sensing and pattern recognition.
