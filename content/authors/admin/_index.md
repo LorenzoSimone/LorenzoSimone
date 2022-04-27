@@ -6,9 +6,12 @@ bio: My main research interest is focused on Computer aided diagnosis systems
   based on AI novelties. I'm currently interested in advanced generative deep
   learning models for signals, compressed sensing and pattern recognition.
 social:
-  - icon: envelope
+  - icon: envelope-open-text
     icon_pack: fas
     link: about/#contact
+    label: e-mail
+    display:
+      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
