@@ -2,8 +2,9 @@
 title: Lorenzo Simone
 role: Machine Learning Teaching Assistant
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My main research interest is focused on Computer aided diagnosis systems
+  based on AI novelties. I'm currently interested in advanced generative deep
+  learning models for signals, compressed sensing and pattern recognition.
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,7 +22,5 @@ superuser: true
 status:
   icon: ☕️
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorenzo Simone received his MSc in Artificial Intelligence from the University of Pisa with a final summa cum laude grade. The thesis under the title "*Deep generative models for electrocardiography time series*" was supervised by [Prof. Davide Bacciu](http://pages.di.unipi.it/bacciu/). The main objective of the research has been synthesizing conditioned ECG data agreeing
+with a standard of morphological plausibility. We proposed a semi-supervised generative adversarial approach (ECGAN) capable of conditioning the generative probability distribution with respect to: normal rhythm and premature ventricular contractions (PVCs).
